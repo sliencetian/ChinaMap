@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChinaMapView">
+        <attr name="show_province_name" format="boolean"/>
+        <attr name="province_name_color" format="color"/>
+        <attr name="province_name_size" format="float"/>
+        <attr name="fill_color" format="color"/>
+        <attr name="select_color" format="color"/>
+        <attr name="outline_color" format="color"/>
+    </declare-styleable>
+</resources>

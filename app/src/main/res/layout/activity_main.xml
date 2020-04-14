@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.silence.chinamap.ChinaMapView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_margin="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Hello World!"
+        app:fill_color="#3F99F9"
+        app:outline_color="#FFFFFF"
+        app:province_name_color="#000000"
+        app:province_name_size="15"
+        app:select_color="#FF164C"
+        app:show_province_name="true" />
+
+</RelativeLayout>
